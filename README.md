@@ -22,8 +22,8 @@ A collection of NFT smart contracts written in **Vyper**, utilizing the [Snekmat
 
 ---
 
-## 📁 Folder Structure
-
+# 📁 Folder Structure
+```
 ├── contracts/
 │ ├── puppy_nft.vy
 │ └── mood_nft.vy
@@ -37,6 +37,7 @@ A collection of NFT smart contracts written in **Vyper**, utilizing the [Snekmat
 ├── README.md
 ├──moccasin.toml
 ├──pyproject.toml
+```
 
 
 ---
