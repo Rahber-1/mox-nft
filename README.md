@@ -51,6 +51,7 @@ python scripts/deploy_basic_nft.py
 python scripts/deploy_mood_nft.py
 
 🛠️ Technologies Used
+```
 Vyper — Smart contract language
 
 Snekmate — Modular Vyper components
@@ -62,7 +63,10 @@ Moccasin — Dev environment for Vyper
 IPFS — For Puppy NFT metadata
 
 Base64 — For encoding on-chain metadata
+```
 
 👨‍💻 Author
+```
 Rahbar Ahmed
 License: MIT
+```
