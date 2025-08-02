@@ -44,11 +44,13 @@ A collection of NFT smart contracts written in **Vyper**, utilizing the [Snekmat
 
 ## 🚀 Deploy & Mint (using Python + Moccasin)
 
+```
 1. Install dependencies:
    ```bash
    pip install moccasin
 python scripts/deploy_basic_nft.py
 python scripts/deploy_mood_nft.py
+```
 
 🛠️ Technologies Used
 ```
